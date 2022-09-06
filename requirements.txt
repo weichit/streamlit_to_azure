@@ -1,0 +1,6 @@
+streamlit
+streamlit-awesome-table
+streamlit-aggrid
+azure-storage-blob
+azure-servicebus
+pdf2image
